@@ -88,5 +88,23 @@
       "status": "success",
       "url": "https://facebook.com/2127817584513550"
     }
+  },
+  {
+    "timestamp": "2026-10-11T18:48:05.141975+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_pendulum_harmonic_arc_fireworks_man_in_motorized_wheelchair_facing_right_20261011_184800.mp4",
+    "mode": "pendulum_harmonic_arc",
+    "hero": "fireworks",
+    "item": "man_in_motorized_wheelchair_facing_right",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1764873271466127",
+      "comment_id": "1764873271466127_1140331585083117",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1764873271466127"
+    }
   }
 ]

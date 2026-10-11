@@ -52,5 +52,23 @@
       "status": "success",
       "url": "https://facebook.com/1463362255765312"
     }
+  },
+  {
+    "timestamp": "2026-10-11T01:48:32.044193+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_conveyor_gravity_drop_screwdriver_blackbird_20261011_014829.mp4",
+    "mode": "conveyor_gravity_drop",
+    "hero": "screwdriver",
+    "item": "blackbird",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1485935250025136",
+      "comment_id": "1485935250025136_2335232163959983",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1485935250025136"
+    }
   }
 ]

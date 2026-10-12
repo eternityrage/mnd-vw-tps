@@ -124,5 +124,23 @@
       "status": "success",
       "url": "https://facebook.com/1993528931334611"
     }
+  },
+  {
+    "timestamp": "2026-10-12T11:52:04.304486+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_radar_sweep_360_comet_ballot_box_with_ballot_20261012_115159.mp4",
+    "mode": "radar_sweep_360",
+    "hero": "comet",
+    "item": "ballot_box_with_ballot",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1260761979549831",
+      "comment_id": "1260761979549831_1141029821913820",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1260761979549831"
+    }
   }
 ]

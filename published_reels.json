@@ -106,5 +106,23 @@
       "status": "success",
       "url": "https://facebook.com/1764873271466127"
     }
+  },
+  {
+    "timestamp": "2026-10-12T02:17:34.080871+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_anamorphic_stretch_black_square_button_weary_cat_20261012_021728.mp4",
+    "mode": "anamorphic_stretch",
+    "hero": "black_square_button",
+    "item": "weary_cat",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1993528931334611",
+      "comment_id": "1993528931334611_2546595662471455",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1993528931334611"
+    }
   }
 ]

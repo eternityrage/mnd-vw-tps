@@ -178,5 +178,23 @@
       "status": "success",
       "url": "https://facebook.com/1102428462519483"
     }
+  },
+  {
+    "timestamp": "2026-10-13T11:40:43.548404+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_microscope_focus_chains_yellow_square_20261013_114040.mp4",
+    "mode": "microscope_focus",
+    "hero": "chains",
+    "item": "yellow_square",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "28746080685042709",
+      "comment_id": "28746080685042709_1678311240966603",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/28746080685042709"
+    }
   }
 ]

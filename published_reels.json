@@ -250,5 +250,23 @@
       "status": "success",
       "url": "https://facebook.com/1000955923037081"
     }
+  },
+  {
+    "timestamp": "2026-10-14T18:31:18.513229+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_shadow_morph_scale_cyclone_woman_red_hair_20261014_183112.mp4",
+    "mode": "shadow_morph_scale",
+    "hero": "cyclone",
+    "item": "woman_red_hair",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1575274073915042",
+      "comment_id": "1575274073915042_1450132653849618",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1575274073915042"
+    }
   }
 ]

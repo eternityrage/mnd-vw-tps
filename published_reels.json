@@ -214,5 +214,23 @@
       "status": "success",
       "url": "https://facebook.com/1106261698431358"
     }
+  },
+  {
+    "timestamp": "2026-10-14T01:49:20.024221+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_conveyor_belt_rush_pickup_truck_flat_shoe_20261014_014916.mp4",
+    "mode": "conveyor_belt_rush",
+    "hero": "pickup_truck",
+    "item": "flat_shoe",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1101773015936276",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1101773015936276"
+    }
   }
 ]

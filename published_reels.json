@@ -286,5 +286,23 @@
       "status": "success",
       "url": "https://facebook.com/1072673039096389"
     }
+  },
+  {
+    "timestamp": "2026-10-15T09:05:44.020279+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_accordion_z_axis_man_frowning_chess_pawn_20261015_090538.mp4",
+    "mode": "accordion_z_axis",
+    "hero": "man_frowning",
+    "item": "chess_pawn",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "2155302795196632",
+      "comment_id": "2155302795196632_3066866760317888",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2155302795196632"
+    }
   }
 ]

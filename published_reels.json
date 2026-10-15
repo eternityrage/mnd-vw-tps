@@ -268,5 +268,23 @@
       "status": "success",
       "url": "https://facebook.com/1575274073915042"
     }
+  },
+  {
+    "timestamp": "2026-10-15T01:24:39.430306+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_prism_spectrum_split_purple_circle_sparkling_heart_20261015_012433.mp4",
+    "mode": "prism_spectrum_split",
+    "hero": "purple_circle",
+    "item": "sparkling_heart",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1072673039096389",
+      "comment_id": "1072673039096389_852771487892750",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1072673039096389"
+    }
   }
 ]

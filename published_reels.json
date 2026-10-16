@@ -394,5 +394,23 @@
       "status": "success",
       "url": "https://facebook.com/1995559841124256"
     }
+  },
+  {
+    "timestamp": "2026-10-16T17:57:53.287508+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_fisheye_lens_warp_taco_wilted_flower_20261016_175748.mp4",
+    "mode": "fisheye_lens_warp",
+    "hero": "taco",
+    "item": "wilted_flower",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "4493818100875666",
+      "comment_id": "4493818100875666_1763334971556828",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4493818100875666"
+    }
   }
 ]

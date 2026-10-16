@@ -376,5 +376,23 @@
       "status": "success",
       "url": "https://facebook.com/1578490060240344"
     }
+  },
+  {
+    "timestamp": "2026-10-16T13:55:06.372922+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_dual_zoom_inverse_hammer_smiling_face_with_tear_20261016_135500.mp4",
+    "mode": "dual_zoom_inverse",
+    "hero": "hammer",
+    "item": "smiling_face_with_tear",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1995559841124256",
+      "comment_id": "1995559841124256_1637134637920111",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1995559841124256"
+    }
   }
 ]

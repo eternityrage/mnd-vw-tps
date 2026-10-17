@@ -430,5 +430,23 @@
       "status": "success",
       "url": "https://facebook.com/1423567486647910"
     }
+  },
+  {
+    "timestamp": "2026-10-17T01:15:35.585117+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_quad_lock_globe_with_meridians_pen_20261017_011530.mp4",
+    "mode": "quad_lock",
+    "hero": "globe_with_meridians",
+    "item": "pen",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "2132106007416110",
+      "comment_id": "2132106007416110_1447558334223837",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2132106007416110"
+    }
   }
 ]

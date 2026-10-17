@@ -466,5 +466,23 @@
       "status": "success",
       "url": "https://facebook.com/1092898076942338"
     }
+  },
+  {
+    "timestamp": "2026-10-17T12:55:13.743126+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_focus_aperture_shutter_toilet_boxing_glove_20261017_125508.mp4",
+    "mode": "focus_aperture_shutter",
+    "hero": "toilet",
+    "item": "boxing_glove",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "4188930338072580",
+      "comment_id": "4188930338072580_1097914982782568",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4188930338072580"
+    }
   }
 ]

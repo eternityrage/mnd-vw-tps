@@ -448,5 +448,23 @@
       "status": "success",
       "url": "https://facebook.com/2132106007416110"
     }
+  },
+  {
+    "timestamp": "2026-10-17T08:30:08.750832+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_rising_bubbles_oil_drum_croissant_20261017_083003.mp4",
+    "mode": "rising_bubbles",
+    "hero": "oil_drum",
+    "item": "croissant",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1092898076942338",
+      "comment_id": "1092898076942338_1045646011820864",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1092898076942338"
+    }
   }
 ]

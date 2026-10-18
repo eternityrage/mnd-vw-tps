@@ -538,5 +538,23 @@
       "status": "success",
       "url": "https://facebook.com/2163772441227912"
     }
+  },
+  {
+    "timestamp": "2026-10-18T08:48:08.674586+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_crossfire_8way_supernova_stadium_worm_20261018_084802.mp4",
+    "mode": "crossfire_8way_supernova",
+    "hero": "stadium",
+    "item": "worm",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "2060722714644801",
+      "comment_id": "2060722714644801_1710022803967315",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2060722714644801"
+    }
   }
 ]

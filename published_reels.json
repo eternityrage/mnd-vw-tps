@@ -574,5 +574,23 @@
       "status": "success",
       "url": "https://facebook.com/1111161181508579"
     }
+  },
+  {
+    "timestamp": "2026-10-18T17:16:28.675179+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_isometric_cube_align_maple_leaf_japanese_passing_grade_button_20261018_171623.mp4",
+    "mode": "isometric_cube_align",
+    "hero": "maple_leaf",
+    "item": "japanese_passing_grade_button",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "920490564478185",
+      "comment_id": "920490564478185_1050678861337733",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/920490564478185"
+    }
   }
 ]

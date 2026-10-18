@@ -592,5 +592,23 @@
       "status": "success",
       "url": "https://facebook.com/920490564478185"
     }
+  },
+  {
+    "timestamp": "2026-10-18T20:32:46.761129+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_pop_up_book_dizzy_woman_farmer_20261018_203242.mp4",
+    "mode": "pop_up_book",
+    "hero": "dizzy",
+    "item": "woman_farmer",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1615742189930493",
+      "comment_id": "1615742189930493_1994602684542594",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1615742189930493"
+    }
   }
 ]

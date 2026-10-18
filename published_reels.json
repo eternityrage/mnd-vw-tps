@@ -520,5 +520,23 @@
       "status": "success",
       "url": "https://facebook.com/1142641141742815"
     }
+  },
+  {
+    "timestamp": "2026-10-18T00:53:34.289964+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_vertical_microscope_satellite_20261018_005329.mp4",
+    "mode": "card_flip_vertical",
+    "hero": "microscope",
+    "item": "satellite",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "2163772441227912",
+      "comment_id": "2163772441227912_1656475979441392",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2163772441227912"
+    }
   }
 ]

@@ -610,5 +610,23 @@
       "status": "success",
       "url": "https://facebook.com/1615742189930493"
     }
+  },
+  {
+    "timestamp": "2026-10-19T01:06:38.132752+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_radar_sweep_360_sun_woman_scientist_20261019_010635.mp4",
+    "mode": "radar_sweep_360",
+    "hero": "sun",
+    "item": "woman_scientist",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1680446313502450",
+      "comment_id": "1680446313502450_1761512695152694",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1680446313502450"
+    }
   }
 ]

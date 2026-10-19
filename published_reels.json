@@ -646,5 +646,23 @@
       "status": "success",
       "url": "https://facebook.com/2874802662890606"
     }
+  },
+  {
+    "timestamp": "2026-10-19T19:48:26.826091+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_spiral_galaxy_in_racing_car_water_wave_20261019_194822.mp4",
+    "mode": "spiral_galaxy_in",
+    "hero": "racing_car",
+    "item": "water_wave",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "4373291539552047",
+      "comment_id": "4373291539552047_1801920130854942",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4373291539552047"
+    }
   }
 ]

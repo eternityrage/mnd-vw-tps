@@ -700,5 +700,23 @@
       "status": "success",
       "url": "https://facebook.com/1117581847308174"
     }
+  },
+  {
+    "timestamp": "2026-10-20T18:26:24.386714+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_horizontal_mantelpiece_clock_drum_20261020_182621.mp4",
+    "mode": "card_flip_horizontal",
+    "hero": "mantelpiece_clock",
+    "item": "drum",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1672014781172410",
+      "comment_id": "1672014781172410_1428341828739884",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1672014781172410"
+    }
   }
 ]

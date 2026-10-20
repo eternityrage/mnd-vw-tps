@@ -664,5 +664,23 @@
       "status": "success",
       "url": "https://facebook.com/4373291539552047"
     }
+  },
+  {
+    "timestamp": "2026-10-20T01:43:18.595593+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_rubiks_slice_turn_woman_mechanic_crown_20261020_014313.mp4",
+    "mode": "rubiks_slice_turn",
+    "hero": "woman_mechanic",
+    "item": "crown",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1664131785286654",
+      "comment_id": "1664131785286654_916079788105548",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1664131785286654"
+    }
   }
 ]

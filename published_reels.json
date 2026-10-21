@@ -772,5 +772,23 @@
       "status": "success",
       "url": "https://facebook.com/2217690465623848"
     }
+  },
+  {
+    "timestamp": "2026-10-21T20:23:16.421094+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_plinko_bounce_person_golfing_door_20261021_202311.mp4",
+    "mode": "plinko_bounce",
+    "hero": "person_golfing",
+    "item": "door",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1686085442947777",
+      "comment_id": "1686085442947777_1418072423264267",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1686085442947777"
+    }
   }
 ]

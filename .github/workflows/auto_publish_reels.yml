@@ -2,8 +2,12 @@ name: Auto Publish Viral Reels Network
 
 on:
   schedule:
-    # Runs 5 times daily on dedicated staggered schedule
-    - cron: '10 4,9,14,18,23 * * *'
+    # 5 Daily Non-Congested Times (UTC): 02:47, 07:47, 12:47, 16:47, 21:47
+    - cron: '47 2 * * *'
+    - cron: '47 7 * * *'
+    - cron: '47 12 * * *'
+    - cron: '47 16 * * *'
+    - cron: '47 21 * * *'
 
   workflow_dispatch:
     inputs:
@@ -13,19 +17,25 @@ on:
         default: 'mindview'
         type: choice
         options:
+          - all
+          - brainfocus
+          - mindmath
+          - brainfog
+          - braintaps_flow
           - mindview
+          - mindquiz
       mode:
-        description: 'Gameplay Mode override'
+        description: 'Gameplay Mode override (leave empty for automatic selection)'
         required: false
         default: ''
         type: string
       hero:
-        description: 'Hero asset override'
+        description: 'Hero asset override (leave empty for automatic selection)'
         required: false
         default: ''
         type: string
       item:
-        description: 'Item asset override'
+        description: 'Item asset override (leave empty for automatic selection)'
         required: false
         default: ''
         type: string
@@ -85,7 +95,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add published_reels.json 2>/dev/null || true
           if ! git diff --staged --quiet; then
-            git commit -m "Update published reels log [skip ci]"
+            git commit -m "Update published network reels log [skip ci]"
             git pull --rebase
             git push
             echo "✅ Published history saved."

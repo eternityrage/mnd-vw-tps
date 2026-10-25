@@ -862,5 +862,25 @@
       "status": "success",
       "url": "https://facebook.com/1789392372185654"
     }
+  },
+  {
+    "timestamp": "2026-10-25T04:57:35.062460+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_microscope_focus_man_with_white_cane_facing_right_fountain_pen_20261025_045729.mp4",
+    "family_id": 42,
+    "family_name": "Optical Spectrum Prisms",
+    "mode": "microscope_focus",
+    "hero": "man_with_white_cane_facing_right",
+    "item": "fountain_pen",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1100464372786815",
+      "comment_id": "1100464372786815_1344505841057687",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1100464372786815"
+    }
   }
 ]

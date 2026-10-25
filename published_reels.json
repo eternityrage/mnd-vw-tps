@@ -922,5 +922,25 @@
       "status": "success",
       "url": "https://facebook.com/4614419935484884"
     }
+  },
+  {
+    "timestamp": "2026-10-25T17:36:52.383679+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_diamond_convergence_ferry_sweat_droplets_20261025_173647.mp4",
+    "family_id": 33,
+    "family_name": "Supernova 8-Way Starbursts",
+    "mode": "diamond_convergence",
+    "hero": "ferry",
+    "item": "sweat_droplets",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "2292661474843784",
+      "comment_id": "2292661474843784_1114011591557413",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2292661474843784"
+    }
   }
 ]

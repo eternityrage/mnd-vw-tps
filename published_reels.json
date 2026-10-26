@@ -1002,5 +1002,25 @@
       "status": "success",
       "url": "https://facebook.com/1658767045628494"
     }
+  },
+  {
+    "timestamp": "2026-10-26T16:50:06.928247+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_vertical_bouquet_man_health_worker_20261026_165002.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_vertical",
+    "hero": "bouquet",
+    "item": "man_health_worker",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "3729848703831087",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3729848703831087"
+    }
   }
 ]

@@ -1082,5 +1082,25 @@
       "status": "success",
       "url": "https://facebook.com/1502281095291450"
     }
+  },
+  {
+    "timestamp": "2026-10-27T15:55:44.790668+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_isometric_cube_align_sport_utility_vehicle_man_artist_20261027_155539.mp4",
+    "family_id": 41,
+    "family_name": "Isometric Axonometric Cubes",
+    "mode": "isometric_cube_align",
+    "hero": "sport_utility_vehicle",
+    "item": "man_artist",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "2567865600342847",
+      "comment_id": "2567865600342847_28649573264724076",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2567865600342847"
+    }
   }
 ]

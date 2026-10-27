@@ -1062,5 +1062,25 @@
       "status": "success",
       "url": "https://facebook.com/4687087108227495"
     }
+  },
+  {
+    "timestamp": "2026-10-27T10:39:25.919939+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_metronome_tick_transgender_symbol_crystal_ball_20261027_103921.mp4",
+    "family_id": 50,
+    "family_name": "Precision Chrono Metronomes",
+    "mode": "metronome_tick",
+    "hero": "transgender_symbol",
+    "item": "crystal_ball",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1502281095291450",
+      "comment_id": "1502281095291450_1106945725055795",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1502281095291450"
+    }
   }
 ]

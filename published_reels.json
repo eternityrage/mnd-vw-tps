@@ -1142,5 +1142,25 @@
       "status": "success",
       "url": "https://facebook.com/1638569701130254"
     }
+  },
+  {
+    "timestamp": "2026-10-28T05:56:48.380870+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_scissor_pinch_satellite_antenna_person_in_motorized_wheelchair_facing_right_20261028_055642.mp4",
+    "family_id": 31,
+    "family_name": "Diagonal-X Interceptors",
+    "mode": "scissor_pinch",
+    "hero": "satellite_antenna",
+    "item": "person_in_motorized_wheelchair_facing_right",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1176500868032826",
+      "comment_id": "1176500868032826_1510034894293007",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1176500868032826"
+    }
   }
 ]

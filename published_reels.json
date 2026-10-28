@@ -1182,5 +1182,25 @@
       "status": "success",
       "url": "https://facebook.com/1594493571869905"
     }
+  },
+  {
+    "timestamp": "2026-10-28T16:43:14.051367+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_double_pendulum_chaos_unlocked_mobile_phone_off_20261028_164311.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "double_pendulum_chaos",
+    "hero": "unlocked",
+    "item": "mobile_phone_off",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1374751904501979",
+      "comment_id": "1374751904501979_997974999260019",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1374751904501979"
+    }
   }
 ]

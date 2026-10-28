@@ -1162,5 +1162,25 @@
       "status": "success",
       "url": "https://facebook.com/1176500868032826"
     }
+  },
+  {
+    "timestamp": "2026-10-28T11:23:49.477738+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_rubiks_slice_turn_two_thirty_socks_20261028_112344.mp4",
+    "family_id": 46,
+    "family_name": "Geometric Block Drops",
+    "mode": "rubiks_slice_turn",
+    "hero": "two_thirty",
+    "item": "socks",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1594493571869905",
+      "comment_id": "1594493571869905_1795942691518823",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1594493571869905"
+    }
   }
 ]

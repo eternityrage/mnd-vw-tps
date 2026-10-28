@@ -1202,5 +1202,25 @@
       "status": "success",
       "url": "https://facebook.com/1374751904501979"
     }
+  },
+  {
+    "timestamp": "2026-10-28T19:28:04.696215+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_horizontal_ring_prince_20261028_192801.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_horizontal",
+    "hero": "ring",
+    "item": "prince",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1115863921445311",
+      "comment_id": "1115863921445311_1490532036252190",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1115863921445311"
+    }
   }
 ]

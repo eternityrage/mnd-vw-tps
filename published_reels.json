@@ -1222,5 +1222,25 @@
       "status": "success",
       "url": "https://facebook.com/1115863921445311"
     }
+  },
+  {
+    "timestamp": "2026-10-28T23:15:50.975422+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_dimension_shift_4d_kangaroo_person_feeding_baby_20261028_231545.mp4",
+    "family_id": 39,
+    "family_name": "Depth 3D Wormholes",
+    "mode": "dimension_shift_4d",
+    "hero": "kangaroo",
+    "item": "person_feeding_baby",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1355158259880785",
+      "comment_id": "1355158259880785_2321149268709302",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1355158259880785"
+    }
   }
 ]

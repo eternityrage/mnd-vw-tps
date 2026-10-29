@@ -1242,5 +1242,25 @@
       "status": "success",
       "url": "https://facebook.com/1355158259880785"
     }
+  },
+  {
+    "timestamp": "2026-10-29T06:02:05.159555+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_meteor_strike_motor_scooter_white_small_square_20261029_060200.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "meteor_strike",
+    "hero": "motor_scooter",
+    "item": "white_small_square",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "2751325715324329",
+      "comment_id": "2751325715324329_1925995205043930",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2751325715324329"
+    }
   }
 ]

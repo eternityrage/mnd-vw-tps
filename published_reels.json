@@ -1322,5 +1322,25 @@
       "status": "success",
       "url": "https://facebook.com/1177015028411268"
     }
+  },
+  {
+    "timestamp": "2026-10-29T23:20:04.139305+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_triple_zoom_stagger_fax_machine_pound_banknote_20261029_231957.mp4",
+    "family_id": 38,
+    "family_name": "Staggered Triple Zooms",
+    "mode": "triple_zoom_stagger",
+    "hero": "fax_machine",
+    "item": "pound_banknote",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "2384834658932757",
+      "comment_id": "2384834658932757_4637707876458706",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2384834658932757"
+    }
   }
 ]

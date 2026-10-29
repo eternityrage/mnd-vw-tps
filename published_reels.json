@@ -1302,5 +1302,25 @@
       "status": "success",
       "url": "https://facebook.com/1463743138987532"
     }
+  },
+  {
+    "timestamp": "2026-10-29T19:32:31.021380+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_prism_spectrum_split_knocked_out_face_notebook_20261029_193227.mp4",
+    "family_id": 42,
+    "family_name": "Optical Spectrum Prisms",
+    "mode": "prism_spectrum_split",
+    "hero": "knocked_out_face",
+    "item": "notebook",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1177015028411268",
+      "comment_id": "1177015028411268_1682545693526274",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1177015028411268"
+    }
   }
 ]

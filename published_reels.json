@@ -1502,5 +1502,25 @@
       "status": "success",
       "url": "https://facebook.com/1115260221367188"
     }
+  },
+  {
+    "timestamp": "2026-10-31T18:27:46.436283+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_vertical_piston_gem_stone_dashing_away_20261031_182742.mp4",
+    "family_id": 2,
+    "family_name": "Linear Hydraulic Pistons",
+    "mode": "vertical_piston",
+    "hero": "gem_stone",
+    "item": "dashing_away",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1796581968226761",
+      "comment_id": "1796581968226761_1650404546781053",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1796581968226761"
+    }
   }
 ]

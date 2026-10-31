@@ -1482,5 +1482,25 @@
       "status": "success",
       "url": "https://facebook.com/1464163452345159"
     }
+  },
+  {
+    "timestamp": "2026-10-31T15:47:51.535363+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_focus_aperture_shutter_airplane_arrival_elevator_20261031_154747.mp4",
+    "family_id": 36,
+    "family_name": "Arrowhead Ballistics",
+    "mode": "focus_aperture_shutter",
+    "hero": "airplane_arrival",
+    "item": "elevator",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1115260221367188",
+      "comment_id": "1115260221367188_1129597826136256",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1115260221367188"
+    }
   }
 ]

@@ -1542,5 +1542,25 @@
       "status": "success",
       "url": "https://facebook.com/3639186109582713"
     }
+  },
+  {
+    "timestamp": "2026-11-01T06:27:12.343584+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_pyramid_wave_tiger_roll_of_paper_20261101_062708.mp4",
+    "family_id": 6,
+    "family_name": "Geometric Triangle Bouncers",
+    "mode": "pyramid_wave",
+    "hero": "tiger",
+    "item": "roll_of_paper",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1429224776004963",
+      "comment_id": "1429224776004963_1130751226388154",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1429224776004963"
+    }
   }
 ]

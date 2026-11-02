@@ -1642,5 +1642,25 @@
       "status": "success",
       "url": "https://facebook.com/1430427815340395"
     }
+  },
+  {
+    "timestamp": "2026-11-02T06:27:45.610623+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_crossfire_8way_supernova_cloud_with_lightning_and_rain_canned_food_20261102_062740.mp4",
+    "family_id": 33,
+    "family_name": "Supernova 8-Way Starbursts",
+    "mode": "crossfire_8way_supernova",
+    "hero": "cloud_with_lightning_and_rain",
+    "item": "canned_food",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1448867787388130",
+      "comment_id": "1448867787388130_992019796641607",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1448867787388130"
+    }
   }
 ]

@@ -1662,5 +1662,25 @@
       "status": "success",
       "url": "https://facebook.com/1448867787388130"
     }
+  },
+  {
+    "timestamp": "2026-11-02T13:35:06.301086+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_vertical_right_anger_bubble_teddy_bear_20261102_133501.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_vertical",
+    "hero": "right_anger_bubble",
+    "item": "teddy_bear",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "2310861519694957",
+      "comment_id": "2310861519694957_1673226621013830",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2310861519694957"
+    }
   }
 ]

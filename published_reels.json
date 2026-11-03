@@ -1722,5 +1722,25 @@
       "status": "success",
       "url": "https://facebook.com/1630939471643508"
     }
+  },
+  {
+    "timestamp": "2026-11-03T01:37:26.000933+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_isometric_cube_align_dizzy_input_symbols_20261103_013721.mp4",
+    "family_id": 41,
+    "family_name": "Isometric Axonometric Cubes",
+    "mode": "isometric_cube_align",
+    "hero": "dizzy",
+    "item": "input_symbols",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "3626466300861984",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3626466300861984"
+    }
   }
 ]

@@ -1742,5 +1742,25 @@
       "status": "success",
       "url": "https://facebook.com/3626466300861984"
     }
+  },
+  {
+    "timestamp": "2026-11-03T07:00:05.819364+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_orbit_counter_rotating_badminton_croissant_20261103_070000.mp4",
+    "family_id": 21,
+    "family_name": "Counter-Rotating Gyros",
+    "mode": "orbit_counter_rotating",
+    "hero": "badminton",
+    "item": "croissant",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1438668904345251",
+      "comment_id": "1438668904345251_2201454687460553",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1438668904345251"
+    }
   }
 ]

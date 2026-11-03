@@ -1802,5 +1802,25 @@
       "status": "success",
       "url": "https://facebook.com/1109684458436964"
     }
+  },
+  {
+    "timestamp": "2026-11-03T20:29:16.088073+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_horizontal_blue_book_telephone_receiver_20261103_202910.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_horizontal",
+    "hero": "blue_book",
+    "item": "telephone_receiver",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1142116105068616",
+      "comment_id": "1142116105068616_1881687923191125",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1142116105068616"
+    }
   }
 ]

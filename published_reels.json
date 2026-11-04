@@ -1902,5 +1902,25 @@
       "status": "success",
       "url": "https://facebook.com/1426626845784745"
     }
+  },
+  {
+    "timestamp": "2026-11-04T20:58:07.476177+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_triple_zoom_stagger_shuffle_tracks_button_bucket_20261104_205802.mp4",
+    "family_id": 38,
+    "family_name": "Staggered Triple Zooms",
+    "mode": "triple_zoom_stagger",
+    "hero": "shuffle_tracks_button",
+    "item": "bucket",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "2575470972962246",
+      "comment_id": "2575470972962246_30272744695658857",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2575470972962246"
+    }
   }
 ]

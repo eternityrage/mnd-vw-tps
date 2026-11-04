@@ -1822,5 +1822,25 @@
       "status": "success",
       "url": "https://facebook.com/1142116105068616"
     }
+  },
+  {
+    "timestamp": "2026-11-04T00:00:14.408768+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_dimension_shift_4d_hyacinth_herb_20261104_000010.mp4",
+    "family_id": 39,
+    "family_name": "Depth 3D Wormholes",
+    "mode": "dimension_shift_4d",
+    "hero": "hyacinth",
+    "item": "herb",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1564189995733268",
+      "comment_id": "1564189995733268_3763289333825044",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1564189995733268"
+    }
   }
 ]

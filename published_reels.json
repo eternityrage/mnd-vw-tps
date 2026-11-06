@@ -2062,5 +2062,25 @@
       "status": "success",
       "url": "https://facebook.com/1158226693214213"
     }
+  },
+  {
+    "timestamp": "2026-11-06T12:59:48.392971+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_microscope_focus_airplane_keycap_0_20261106_125943.mp4",
+    "family_id": 42,
+    "family_name": "Optical Spectrum Prisms",
+    "mode": "microscope_focus",
+    "hero": "airplane",
+    "item": "keycap_0",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1130289623193028",
+      "comment_id": "1130289623193028_2415685639172269",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1130289623193028"
+    }
   }
 ]

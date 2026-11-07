@@ -2202,5 +2202,25 @@
       "status": "success",
       "url": "https://facebook.com/2326622334805133"
     }
+  },
+  {
+    "timestamp": "2026-11-07T18:40:47.539457+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_vertical_skier_spider_web_20261107_184042.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_vertical",
+    "hero": "skier",
+    "item": "spider_web",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1139404512050150",
+      "comment_id": "1139404512050150_1420542150149175",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1139404512050150"
+    }
   }
 ]

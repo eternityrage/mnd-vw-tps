@@ -2122,5 +2122,25 @@
       "status": "success",
       "url": "https://facebook.com/4520041191602782"
     }
+  },
+  {
+    "timestamp": "2026-11-07T00:08:37.340560+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_diamond_convergence_magnet_doughnut_20261107_000832.mp4",
+    "family_id": 33,
+    "family_name": "Supernova 8-Way Starbursts",
+    "mode": "diamond_convergence",
+    "hero": "magnet",
+    "item": "doughnut",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "2522945958232845",
+      "comment_id": "2522945958232845_2346466919449053",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2522945958232845"
+    }
   }
 ]

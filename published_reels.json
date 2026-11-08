@@ -2242,5 +2242,25 @@
       "status": "success",
       "url": "https://facebook.com/1103394605659354"
     }
+  },
+  {
+    "timestamp": "2026-11-08T06:20:55.143759+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_anamorphic_stretch_sparkles_dragon_face_20261108_062050.mp4",
+    "family_id": 38,
+    "family_name": "Staggered Triple Zooms",
+    "mode": "anamorphic_stretch",
+    "hero": "sparkles",
+    "item": "dragon_face",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1816787046254447",
+      "comment_id": "1816787046254447_1110049251809786",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1816787046254447"
+    }
   }
 ]

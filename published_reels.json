@@ -2322,5 +2322,25 @@
       "status": "success",
       "url": "https://facebook.com/1675295207595331"
     }
+  },
+  {
+    "timestamp": "2026-11-08T22:55:37.168882+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_falling_gravity_wind_face_lady_beetle_20261108_225532.mp4",
+    "family_id": 12,
+    "family_name": "Terminal Gravity Freefalls",
+    "mode": "falling_gravity",
+    "hero": "wind_face",
+    "item": "lady_beetle",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1694884338869041",
+      "comment_id": "1694884338869041_1621400365646639",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1694884338869041"
+    }
   }
 ]

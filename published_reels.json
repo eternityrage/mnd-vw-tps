@@ -2342,5 +2342,25 @@
       "status": "success",
       "url": "https://facebook.com/1694884338869041"
     }
+  },
+  {
+    "timestamp": "2026-11-09T06:54:11.505737+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_shockwave_pulse_ambulance_angry_face_with_horns_20261109_065408.mp4",
+    "family_id": 11,
+    "family_name": "Heartbeat Pulse Monitors",
+    "mode": "shockwave_pulse",
+    "hero": "ambulance",
+    "item": "angry_face_with_horns",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1023100597465556",
+      "comment_id": "1023100597465556_1457604663014905",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1023100597465556"
+    }
   }
 ]

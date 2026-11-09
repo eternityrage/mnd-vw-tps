@@ -2402,5 +2402,25 @@
       "status": "success",
       "url": "https://facebook.com/3091079901241066"
     }
+  },
+  {
+    "timestamp": "2026-11-09T23:24:01.541755+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_rubiks_slice_turn_ring_woman_walking_facing_right_20261109_232356.mp4",
+    "family_id": 46,
+    "family_name": "Geometric Block Drops",
+    "mode": "rubiks_slice_turn",
+    "hero": "ring",
+    "item": "woman_walking_facing_right",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "2011766302851714",
+      "comment_id": "2011766302851714_1968666780761065",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2011766302851714"
+    }
   }
 ]

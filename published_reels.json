@@ -2462,5 +2462,25 @@
       "status": "success",
       "url": "https://facebook.com/1629942201301088"
     }
+  },
+  {
+    "timestamp": "2026-11-10T13:31:17.771284+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_horizontal_globe_with_meridians_convenience_store_20261110_133112.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_horizontal",
+    "hero": "globe_with_meridians",
+    "item": "convenience_store",
+    "title": "Multi-Dimensional Pause Test! Stop At True Angle \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1444657304546508",
+      "comment_id": "1444657304546508_1672202850985150",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1444657304546508"
+    }
   }
 ]

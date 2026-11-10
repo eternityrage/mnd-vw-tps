@@ -2482,5 +2482,25 @@
       "status": "success",
       "url": "https://facebook.com/1444657304546508"
     }
+  },
+  {
+    "timestamp": "2026-11-10T17:58:07.006280+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_tornado_vortex_sun_movie_camera_20261110_175802.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "tornado_vortex",
+    "hero": "sun",
+    "item": "movie_camera",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "2153918148548897",
+      "comment_id": "2153918148548897_1129135433146114",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2153918148548897"
+    }
   }
 ]

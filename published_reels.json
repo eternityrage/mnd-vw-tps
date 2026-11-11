@@ -2582,5 +2582,25 @@
       "status": "success",
       "url": "https://facebook.com/1495515265830885"
     }
+  },
+  {
+    "timestamp": "2026-11-11T17:56:45.332427+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_double_pendulum_chaos_control_knobs_first_quarter_moon_20261111_175640.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "double_pendulum_chaos",
+    "hero": "control_knobs",
+    "item": "first_quarter_moon",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1690887142386666",
+      "comment_id": "1690887142386666_1341505204653952",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1690887142386666"
+    }
   }
 ]

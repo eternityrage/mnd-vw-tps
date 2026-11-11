@@ -2542,5 +2542,25 @@
       "status": "success",
       "url": "https://facebook.com/1684675259918855"
     }
+  },
+  {
+    "timestamp": "2026-11-11T06:47:52.584029+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_crossfire_8way_supernova_comet_stadium_20261111_064746.mp4",
+    "family_id": 33,
+    "family_name": "Supernova 8-Way Starbursts",
+    "mode": "crossfire_8way_supernova",
+    "hero": "comet",
+    "item": "stadium",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1684607276427022",
+      "comment_id": "1684607276427022_1973743134010722",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1684607276427022"
+    }
   }
 ]

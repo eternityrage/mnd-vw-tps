@@ -2702,5 +2702,25 @@
       "status": "success",
       "url": "https://facebook.com/1134106882327567"
     }
+  },
+  {
+    "timestamp": "2026-11-12T21:25:30.503198+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_carousel_tilt_fog_green_apple_20261112_212525.mp4",
+    "family_id": 21,
+    "family_name": "Counter-Rotating Gyros",
+    "mode": "carousel_tilt",
+    "hero": "fog",
+    "item": "green_apple",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1601298328464438",
+      "comment_id": "1601298328464438_3126610534211391",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1601298328464438"
+    }
   }
 ]

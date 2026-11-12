@@ -2622,5 +2622,25 @@
       "status": "success",
       "url": "https://facebook.com/908525252251161"
     }
+  },
+  {
+    "timestamp": "2026-11-12T01:33:53.919989+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_laser_scanner_sweep_pickup_truck_winking_face_with_tongue_20261112_013350.mp4",
+    "family_id": 27,
+    "family_name": "Radar Beam Sweeps",
+    "mode": "laser_scanner_sweep",
+    "hero": "pickup_truck",
+    "item": "winking_face_with_tongue",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "935702229474516",
+      "comment_id": "935702229474516_2148975789062113",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/935702229474516"
+    }
   }
 ]

@@ -2742,5 +2742,25 @@
       "status": "success",
       "url": "https://facebook.com/1123209173679667"
     }
+  },
+  {
+    "timestamp": "2026-11-13T06:57:54.243960+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_spiral_galaxy_in_atom_symbol_rose_20261113_065750.mp4",
+    "family_id": 22,
+    "family_name": "Logarithmic Spiral Galaxies",
+    "mode": "spiral_galaxy_in",
+    "hero": "atom_symbol",
+    "item": "rose",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1869827427506998",
+      "comment_id": "1869827427506998_2982017222177269",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1869827427506998"
+    }
   }
 ]

@@ -2822,5 +2822,25 @@
       "status": "success",
       "url": "https://facebook.com/994453149851024"
     }
+  },
+  {
+    "timestamp": "2026-11-14T00:22:21.614770+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_heartbeat_pulse_wave_police_car_sad_but_relieved_face_20261114_002217.mp4",
+    "family_id": 11,
+    "family_name": "Heartbeat Pulse Monitors",
+    "mode": "heartbeat_pulse_wave",
+    "hero": "police_car",
+    "item": "sad_but_relieved_face",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1762208358194282",
+      "comment_id": "1762208358194282_1216463454283286",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1762208358194282"
+    }
   }
 ]

@@ -2862,5 +2862,25 @@
       "status": "success",
       "url": "https://facebook.com/1167984942844594"
     }
+  },
+  {
+    "timestamp": "2026-11-14T12:14:48.621628+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_accordion_z_axis_dizzy_downcast_face_with_sweat_20261114_121443.mp4",
+    "family_id": 9,
+    "family_name": "Accordion Volume Pumps",
+    "mode": "accordion_z_axis",
+    "hero": "dizzy",
+    "item": "downcast_face_with_sweat",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1669224367902993",
+      "comment_id": "1669224367902993_1668413335024726",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1669224367902993"
+    }
   }
 ]

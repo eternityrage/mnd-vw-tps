@@ -2902,5 +2902,25 @@
       "status": "success",
       "url": "https://facebook.com/2103059510329238"
     }
+  },
+  {
+    "timestamp": "2026-11-14T19:02:36.911231+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_radar_sweep_360_studio_microphone_shopping_bags_20261114_190232.mp4",
+    "family_id": 27,
+    "family_name": "Radar Beam Sweeps",
+    "mode": "radar_sweep_360",
+    "hero": "studio_microphone",
+    "item": "shopping_bags",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1831460301339126",
+      "comment_id": "1831460301339126_1694157832439054",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1831460301339126"
+    }
   }
 ]

@@ -2982,5 +2982,25 @@
       "status": "success",
       "url": "https://facebook.com/1510748418781491"
     }
+  },
+  {
+    "timestamp": "2026-11-15T17:16:26.340568+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_conveyor_gravity_drop_clamp_mountain_cableway_20261115_171623.mp4",
+    "family_id": 17,
+    "family_name": "Plinko Pegboard Drops",
+    "mode": "conveyor_gravity_drop",
+    "hero": "clamp",
+    "item": "mountain_cableway",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1700375461518760",
+      "comment_id": "1700375461518760_1820290489237927",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1700375461518760"
+    }
   }
 ]

@@ -3062,5 +3062,25 @@
       "status": "success",
       "url": "https://facebook.com/1715709146867440"
     }
+  },
+  {
+    "timestamp": "2026-11-16T13:43:54.897236+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_crossfire_8way_supernova_old_key_man_cartwheeling_20261116_134349.mp4",
+    "family_id": 33,
+    "family_name": "Supernova 8-Way Starbursts",
+    "mode": "crossfire_8way_supernova",
+    "hero": "old_key",
+    "item": "man_cartwheeling",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1109596858534387",
+      "comment_id": "1109596858534387_1666994908217265",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1109596858534387"
+    }
   }
 ]

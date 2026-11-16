@@ -3102,5 +3102,25 @@
       "status": "success",
       "url": "https://facebook.com/1828199708432175"
     }
+  },
+  {
+    "timestamp": "2026-11-16T23:20:00.101557+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_horizontal_man_firefighter_black_circle_20261116_231955.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_horizontal",
+    "hero": "man_firefighter",
+    "item": "black_circle",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1143644681383809",
+      "comment_id": "1143644681383809_1500544141962572",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1143644681383809"
+    }
   }
 ]

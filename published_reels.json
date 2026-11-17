@@ -3162,5 +3162,25 @@
       "status": "success",
       "url": "https://facebook.com/1646815323851202"
     }
+  },
+  {
+    "timestamp": "2026-11-17T14:30:34.872761+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_snake_serpentine_flying_saucer_six_oclock_20261117_143031.mp4",
+    "family_id": 5,
+    "family_name": "Harmonic Sine Waves",
+    "mode": "snake_serpentine",
+    "hero": "flying_saucer",
+    "item": "six_oclock",
+    "title": "Perspective Shift: Stop When The 3D Object Fits! \ud83d\udef8",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1522765927576942",
+      "comment_id": "1522765927576942_3006327533049813",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1522765927576942"
+    }
   }
 ]

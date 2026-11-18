@@ -3222,5 +3222,25 @@
       "status": "success",
       "url": "https://facebook.com/28476505695362734"
     }
+  },
+  {
+    "timestamp": "2026-11-18T01:38:41.273711+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_carousel_tilt_input_latin_uppercase_bucket_20261118_013836.mp4",
+    "family_id": 21,
+    "family_name": "Counter-Rotating Gyros",
+    "mode": "carousel_tilt",
+    "hero": "input_latin_uppercase",
+    "item": "bucket",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "2156757461606052",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2156757461606052"
+    }
   }
 ]

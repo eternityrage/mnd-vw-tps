@@ -3322,5 +3322,25 @@
       "status": "success",
       "url": "https://facebook.com/1022009590916822"
     }
+  },
+  {
+    "timestamp": "2026-11-19T01:16:28.548531+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_anamorphic_stretch_woman_raising_hand_cherry_blossom_20261119_011622.mp4",
+    "family_id": 38,
+    "family_name": "Staggered Triple Zooms",
+    "mode": "anamorphic_stretch",
+    "hero": "woman_raising_hand",
+    "item": "cherry_blossom",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1680792953711782",
+      "comment_id": "1680792953711782_2211122593137473",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1680792953711782"
+    }
   }
 ]

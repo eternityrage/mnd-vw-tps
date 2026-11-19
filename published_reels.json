@@ -3342,5 +3342,25 @@
       "status": "success",
       "url": "https://facebook.com/1680792953711782"
     }
+  },
+  {
+    "timestamp": "2026-11-19T07:40:27.751632+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_vertical_piston_wind_face_clinking_beer_mugs_20261119_074022.mp4",
+    "family_id": 2,
+    "family_name": "Linear Hydraulic Pistons",
+    "mode": "vertical_piston",
+    "hero": "wind_face",
+    "item": "clinking_beer_mugs",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1677276630553683",
+      "comment_id": "1677276630553683_1783579669370447",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1677276630553683"
+    }
   }
 ]

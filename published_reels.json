@@ -3482,5 +3482,25 @@
       "status": "success",
       "url": "https://facebook.com/1128089396524814"
     }
+  },
+  {
+    "timestamp": "2026-11-20T18:39:27.095753+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_tetris_block_drop_telescope_poultry_leg_20261120_183923.mp4",
+    "family_id": 46,
+    "family_name": "Geometric Block Drops",
+    "mode": "tetris_block_drop",
+    "hero": "telescope",
+    "item": "poultry_leg",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1733378845161677",
+      "comment_id": "1733378845161677_2601640236977190",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1733378845161677"
+    }
   }
 ]

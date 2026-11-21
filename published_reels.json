@@ -3522,5 +3522,25 @@
       "status": "success",
       "url": "https://facebook.com/1452021519734650"
     }
+  },
+  {
+    "timestamp": "2026-11-21T00:50:22.382303+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_electric_arc_jump_milky_way_honey_pot_20261121_005018.mp4",
+    "family_id": 10,
+    "family_name": "Zigzag Lightning Bolts",
+    "mode": "electric_arc_jump",
+    "hero": "milky_way",
+    "item": "honey_pot",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1801759751090209",
+      "comment_id": "1801759751090209_1441333164306378",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1801759751090209"
+    }
   }
 ]

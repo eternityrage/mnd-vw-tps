@@ -3642,5 +3642,25 @@
       "status": "success",
       "url": "https://facebook.com/2471008666762029"
     }
+  },
+  {
+    "timestamp": "2026-11-22T07:07:56.126467+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_focus_aperture_shutter_person_vampire_hedgehog_20261122_070751.mp4",
+    "family_id": 36,
+    "family_name": "Arrowhead Ballistics",
+    "mode": "focus_aperture_shutter",
+    "hero": "person_vampire",
+    "item": "hedgehog",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1700953264997359",
+      "comment_id": "1700953264997359_3328399054017761",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1700953264997359"
+    }
   }
 ]

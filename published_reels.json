@@ -3702,5 +3702,25 @@
       "status": "success",
       "url": "https://facebook.com/1142796371494863"
     }
+  },
+  {
+    "timestamp": "2026-11-22T20:40:31.391957+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_card_flip_vertical_rainbow_flag_chart_increasing_20261122_204026.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_vertical",
+    "hero": "rainbow_flag",
+    "item": "chart_increasing",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1121966837380608",
+      "comment_id": "1121966837380608_2358234178273476",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1121966837380608"
+    }
   }
 ]

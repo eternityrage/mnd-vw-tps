@@ -3782,5 +3782,25 @@
       "status": "success",
       "url": "https://facebook.com/1698474408644718"
     }
+  },
+  {
+    "timestamp": "2026-11-23T22:12:50.589339+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_matrix_2x2_bicycle_straight_ruler_20261123_221247.mp4",
+    "family_id": 44,
+    "family_name": "Orthogonal 2x2 Matrices",
+    "mode": "matrix_2x2",
+    "hero": "bicycle",
+    "item": "straight_ruler",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1592035649359246",
+      "comment_id": "1592035649359246_1400659172143598",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1592035649359246"
+    }
   }
 ]

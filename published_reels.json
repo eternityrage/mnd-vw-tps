@@ -3942,5 +3942,25 @@
       "status": "success",
       "url": "https://facebook.com/1173381365684502"
     }
+  },
+  {
+    "timestamp": "2026-11-25T08:52:23.922777+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_crossfire_8way_supernova_station_headphone_20261125_085220.mp4",
+    "family_id": 33,
+    "family_name": "Supernova 8-Way Starbursts",
+    "mode": "crossfire_8way_supernova",
+    "hero": "station",
+    "item": "headphone",
+    "title": "Isometric Perception Test: Only High IQ Pass! \ud83d\udd2e",
+    "pinned_comment": "\ud83e\uddca 3D PERSPECTIVE CHECK: Did you catch the true isometric angle? Drop your screenshot below! \ud83d\udc47 #MindViewTaps",
+    "facebook": {
+      "id": "1862785928397017",
+      "comment_id": "1862785928397017_2610026372814636",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1862785928397017"
+    }
   }
 ]

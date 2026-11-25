@@ -3922,5 +3922,25 @@
       "status": "success",
       "url": "https://facebook.com/1535832381710366"
     }
+  },
+  {
+    "timestamp": "2026-11-25T03:04:09.809869+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_prism_spectrum_split_hammer_and_wrench_face_in_clouds_20261125_030404.mp4",
+    "family_id": 42,
+    "family_name": "Optical Spectrum Prisms",
+    "mode": "prism_spectrum_split",
+    "hero": "hammer_and_wrench",
+    "item": "face_in_clouds",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1173381365684502",
+      "comment_id": "1173381365684502_2638989126547781",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1173381365684502"
+    }
   }
 ]

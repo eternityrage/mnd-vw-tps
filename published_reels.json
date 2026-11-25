@@ -3962,5 +3962,25 @@
       "status": "success",
       "url": "https://facebook.com/1862785928397017"
     }
+  },
+  {
+    "timestamp": "2026-11-25T15:40:57.798147+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_double_pendulum_chaos_fountain_pen_cocktail_glass_20261125_154053.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "double_pendulum_chaos",
+    "hero": "fountain_pen",
+    "item": "cocktail_glass",
+    "title": "3D Spatial Perspective IQ: Can You Align It? \ud83e\uddca",
+    "pinned_comment": "\ud83d\udc41\ufe0f SPATIAL IQ TEST:\n1. Watch the 3D rotation and pause when the perspective locks in 3D! \ud83e\uddca\n2. Screenshot your alignment and reply below \ud83d\udc47\n3. Rate the difficulty from 1-10! #MindView",
+    "facebook": {
+      "id": "1565725472060304",
+      "comment_id": "1565725472060304_1447664527559990",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1565725472060304"
+    }
   }
 ]

@@ -4122,5 +4122,25 @@
       "status": "success",
       "url": "https://facebook.com/1453291866919987"
     }
+  },
+  {
+    "timestamp": "2026-11-27T02:14:48.187914+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_anamorphic_stretch_bank_winking_face_20261127_021444.mp4",
+    "family_id": 38,
+    "family_name": "Staggered Triple Zooms",
+    "mode": "anamorphic_stretch",
+    "hero": "bank",
+    "item": "winking_face",
+    "title": "Rotational IQ Puzzle: Freeze At True Perspective! \ud83c\udf00",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "id": "1012308031305075",
+      "comment_id": "1012308031305075_2248953942671199",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1012308031305075"
+    }
   }
 ]

@@ -4234,5 +4234,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-28T08:06:28.273409+00:00Z",
+    "page_id": "1334005973127654",
+    "page_name": "MindView Taps",
+    "video_file": "reel_mindview_fisheye_lens_warp_coral_three_oclock_20261128_080622.mp4",
+    "family_id": 43,
+    "family_name": "Fisheye Barrel Distortions",
+    "mode": "fisheye_lens_warp",
+    "hero": "coral",
+    "item": "three_oclock",
+    "title": "Optical Illusion Challenge: Your Eyes Will Trick You! \ud83d\udc41\ufe0f",
+    "pinned_comment": "\ud83d\udcd0 OPTICAL PUZZLE: Pause at the exact moment of perspective alignment! Show us your score! \ud83d\udc47",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
